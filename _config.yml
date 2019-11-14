@@ -97,4 +97,4 @@ theme: A-Obsidian
 deploy:
 - type: git
   repo: https://github.com/kidwen/kidwen.github.io
-  branch: master
+  branch: gh-pages
