@@ -13,6 +13,10 @@
   position: absolute;
 }
 
+.post-html ul li::before  {
+  position: absolute;
+}
+
 .block .sidebar-box:not(:last-child) {
   display: none;
 }
