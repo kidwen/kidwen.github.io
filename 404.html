@@ -4,14 +4,28 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>404</title>
+    <style>
+        body {
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
+        .not-found-content {
+            background-size: cover;
+            width: 800px;
+            height: 800px;
+            overflow: hidden;
+            background-image: url('./images/404.png');
+        }
+    </style>
 </head>
 <body>
-    <div>
-        <img src="./images/404.png" alt="404"/>
-    </div>
+    <div class="not-found-content"></div>
     <script>
         setTimeout(() => {
-            // window.history.go(-1);
+            window.history.go(-1);
         }, 2000);
     </script>
 </body>
