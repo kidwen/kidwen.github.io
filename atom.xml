@@ -6,7 +6,7 @@
   <link href="https://kidwen.top/atom.xml" rel="self"/>
   
   <link href="https://kidwen.top/"/>
-  <updated>2023-07-26T01:41:05.470Z</updated>
+  <updated>2023-07-27T02:47:34.697Z</updated>
   <id>https://kidwen.top/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>mermaid</title>
+    <link href="https://kidwen.top/post/tools/mermaid.html"/>
+    <id>https://kidwen.top/post/tools/mermaid.html</id>
+    <published>2023-07-27T11:00:00.000Z</published>
+    <updated>2023-07-27T02:47:34.697Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;hexo-with-mermaind&quot;&gt;&lt;a href=&quot;#hexo-with-mermaind&quot; class=&quot;headerlink&quot; title=&quot;hexo with mermaind&quot;&gt;&lt;/a&gt;hexo with</summary>
+        
+      
+    
+    
+    
+    <category term="TOOL" scheme="https://kidwen.top/categories/TOOL/"/>
+    
+    
+    <category term="chart" scheme="https://kidwen.top/tags/chart/"/>
+    
+  </entry>
   
   <entry>
     <title>angular v16 signal api 介绍</title>
@@ -89,38 +114,6 @@
     
     
     <category term="build" scheme="https://kidwen.top/tags/build/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>mermaid</title>
-    <link href="https://kidwen.top/post/tools/mermaid.html"/>
-    <id>https://kidwen.top/post/tools/mermaid.html</id>
-    <published>2023-07-10T10:00:00.000Z</published>
-    <updated>2023-07-26T10:49:26.328Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;pre class=&quot;mermaid&quot;&gt;graph TD;
-    A--&gt;B;
-    A--&gt;C;
-    B--&gt;D;
-    C--&gt;D;&lt;/pre&gt;
-
-&lt;pre class=&quot;mermaid&quot;&gt;sequenceDiagram
-    participant</summary>
-        
-      
-    
-    
-    
-    <category term="TOOL" scheme="https://kidwen.top/categories/TOOL/"/>
-    
-    
-    <category term="chart" scheme="https://kidwen.top/tags/chart/"/>
     
   </entry>
   
