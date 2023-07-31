@@ -6,7 +6,7 @@
   <link href="https://kidwen.top/atom.xml" rel="self"/>
   
   <link href="https://kidwen.top/"/>
-  <updated>2023-07-27T08:24:08.048Z</updated>
+  <updated>2023-07-31T08:28:56.974Z</updated>
   <id>https://kidwen.top/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://kidwen.top/post/tools/mermaid.html"/>
     <id>https://kidwen.top/post/tools/mermaid.html</id>
     <published>2023-07-27T11:00:00.000Z</published>
-    <updated>2023-07-27T08:24:08.048Z</updated>
+    <updated>2023-07-31T08:28:56.974Z</updated>
     
     
       
@@ -46,7 +46,7 @@
     <link href="https://kidwen.top/post/frontend/angular-signal-api.html"/>
     <id>https://kidwen.top/post/frontend/angular-signal-api.html</id>
     <published>2023-07-21T08:00:00.000Z</published>
-    <updated>2023-07-28T06:26:17.372Z</updated>
+    <updated>2023-07-31T08:29:46.037Z</updated>
     
     
       
@@ -72,7 +72,7 @@
     <link href="https://kidwen.top/post/frontend/angular-v16.html"/>
     <id>https://kidwen.top/post/frontend/angular-v16.html</id>
     <published>2023-07-13T03:00:00.000Z</published>
-    <updated>2023-07-21T08:13:54.539Z</updated>
+    <updated>2023-07-31T08:33:10.038Z</updated>
     
     
       
@@ -122,7 +122,7 @@
     <link href="https://kidwen.top/post/tools/lodash.html"/>
     <id>https://kidwen.top/post/tools/lodash.html</id>
     <published>2023-07-10T09:00:00.000Z</published>
-    <updated>2023-07-10T09:19:58.677Z</updated>
+    <updated>2023-07-31T08:28:56.973Z</updated>
     
     
       
@@ -172,7 +172,7 @@
     <link href="https://kidwen.top/post/frontend/theming.html"/>
     <id>https://kidwen.top/post/frontend/theming.html</id>
     <published>2023-06-15T05:30:00.000Z</published>
-    <updated>2023-06-26T00:30:29.342Z</updated>
+    <updated>2023-07-31T08:33:52.918Z</updated>
     
     
       
@@ -276,7 +276,7 @@
     <link href="https://kidwen.top/post/frontend/eslint-angular.html"/>
     <id>https://kidwen.top/post/frontend/eslint-angular.html</id>
     <published>2023-04-01T00:00:00.000Z</published>
-    <updated>2023-07-13T03:37:34.064Z</updated>
+    <updated>2023-07-31T08:34:36.056Z</updated>
     
     
       
@@ -295,11 +295,11 @@
     
     <category term="angular" scheme="https://kidwen.top/tags/angular/"/>
     
+    <category term="javascript" scheme="https://kidwen.top/tags/javascript/"/>
+    
     <category term="eslint" scheme="https://kidwen.top/tags/eslint/"/>
     
     <category term="typescript" scheme="https://kidwen.top/tags/typescript/"/>
-    
-    <category term="javascript" scheme="https://kidwen.top/tags/javascript/"/>
     
   </entry>
   
@@ -383,18 +383,18 @@
   </entry>
   
   <entry>
-    <title>powershell proxy</title>
+    <title>terminal proxy</title>
     <link href="https://kidwen.top/post/proxy/powershell.html"/>
     <id>https://kidwen.top/post/proxy/powershell.html</id>
     <published>2023-03-20T08:10:22.000Z</published>
-    <updated>2023-06-21T06:11:51.996Z</updated>
+    <updated>2023-07-31T08:28:56.972Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;PowerShell is a task automation and configuration management program from Microsoft, consisting of a command-line shell and the</summary>
+    <summary type="html">&lt;p&gt;terminal is a task automation and configuration management program from Microsoft, consisting of a command-line shell and the associated</summary>
         
       
     
@@ -403,7 +403,7 @@
     <category term="PROXY" scheme="https://kidwen.top/categories/PROXY/"/>
     
     
-    <category term="powershell" scheme="https://kidwen.top/tags/powershell/"/>
+    <category term="terminal" scheme="https://kidwen.top/tags/terminal/"/>
     
   </entry>
   
