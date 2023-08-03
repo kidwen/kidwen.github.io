@@ -48,17 +48,10 @@
     <link href="https://kidwen.top/post/frontend/angular-signal-api.html"/>
     <id>https://kidwen.top/post/frontend/angular-signal-api.html</id>
     <published>2023-07-21T08:00:00.000Z</published>
-    <updated>2023-07-31T08:29:46.037Z</updated>
+    <updated>2023-08-03T05:38:09.338Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;本文介绍 &lt;code&gt;Angular signal&lt;/code&gt;库的 &lt;code&gt;API&lt;/code&gt; 接口和一些实现细节。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;signal&lt;/code&gt;在&lt;code&gt;Angular&lt;/code&gt;中是一种具有明确变更语义的值。在 Angular</summary>
-        
-      
+    <summary type="html">&lt;p&gt;本文介绍 &lt;code&gt;Angular signal&lt;/code&gt;库的 &lt;code&gt;API&lt;/code&gt; 接口和一些实现细节。&lt;/p&gt;</summary>
     
     
     
@@ -297,11 +290,11 @@
     
     <category term="angular" scheme="https://kidwen.top/tags/angular/"/>
     
-    <category term="javascript" scheme="https://kidwen.top/tags/javascript/"/>
-    
     <category term="eslint" scheme="https://kidwen.top/tags/eslint/"/>
     
     <category term="typescript" scheme="https://kidwen.top/tags/typescript/"/>
+    
+    <category term="javascript" scheme="https://kidwen.top/tags/javascript/"/>
     
   </entry>
   
