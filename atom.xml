@@ -6,7 +6,7 @@
   <link href="https://kidwen.top/atom.xml" rel="self"/>
   
   <link href="https://kidwen.top/"/>
-  <updated>2023-07-31T08:28:56.974Z</updated>
+  <updated>2023-08-03T03:36:32.080Z</updated>
   <id>https://kidwen.top/</id>
   
   <author>
@@ -21,14 +21,16 @@
     <link href="https://kidwen.top/post/tools/mermaid.html"/>
     <id>https://kidwen.top/post/tools/mermaid.html</id>
     <published>2023-07-27T11:00:00.000Z</published>
-    <updated>2023-07-31T08:28:56.974Z</updated>
+    <updated>2023-08-03T03:36:32.080Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h3 id=&quot;hexo-with-mermaind&quot;&gt;&lt;a href=&quot;#hexo-with-mermaind&quot; class=&quot;headerlink&quot; title=&quot;hexo with mermaind&quot;&gt;&lt;/a&gt;hexo with</summary>
+    <summary type="html">&lt;!-- &lt;%- js(&#39;downloads/script/mermaid.js&#39;) %&gt; --&gt;
+
+&lt;h3 id=&quot;hexo-with-mermaind&quot;&gt;&lt;a href=&quot;#hexo-with-mermaind&quot; class=&quot;headerlink&quot; title=&quot;hexo</summary>
         
       
     
@@ -295,11 +297,11 @@
     
     <category term="angular" scheme="https://kidwen.top/tags/angular/"/>
     
+    <category term="javascript" scheme="https://kidwen.top/tags/javascript/"/>
+    
     <category term="eslint" scheme="https://kidwen.top/tags/eslint/"/>
     
     <category term="typescript" scheme="https://kidwen.top/tags/typescript/"/>
-    
-    <category term="javascript" scheme="https://kidwen.top/tags/javascript/"/>
     
   </entry>
   
