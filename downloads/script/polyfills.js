@@ -21,6 +21,9 @@ const addJs = () => {
     if(window.location.href.includes('mermaid')) {
         createScript('/downloads/script/mermaid.js')
     }
+    if (window.location.href.includes('aiPhoto')) {
+        createScript('/downloads/script/album.js')
+    }
 }
 
 const createScript = (src) => {
