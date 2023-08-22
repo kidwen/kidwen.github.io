@@ -3,7 +3,20 @@ function load() {
         {
             imgSrc: '/images/picture/f.png',
         },
+        {
+            imgSrc: '/images/angular-16.png',
+        },
+        {
+            imgSrc: '/images/angular-signal-api.webp',
+        },
+        {
+            imgSrc: '/images/mermaid.webp',
+        },
+        
     ];
+    // for (let i = 0; i < 4; i++) {
+    //     imgInfo = [...imgInfo, ...imgInfo];
+    // }
     let renderDOM = null;
     // 最终渲染节点
     renderDOM = document.querySelector('.photo-album');
@@ -27,14 +40,10 @@ function load() {
                 <!-- 平时显示的部分 -->
                 <div class="show">
                     <!-- hover 后显示的部分 -->
-                    <div class="hover-show">
                         <!-- 右下 - 下载按钮 -->
                         <div class="svg-container download">
                             <svg class="svg" t="1673083589533" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="2098" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200"><path d="M952.8 668.48a40.16 40.16 0 0 0-39.2 39.2c0 86.24-57.6 156.96-130.88 156.96H241.28C168 864 110.4 793.92 110.4 707.68a40.16 40.16 0 0 0-39.2-39.2A40.16 40.16 0 0 0 32 707.68c0 130.72 94.24 235.36 209.28 235.36h541.44C897.76 943.04 992 838.4 992 707.68a40.16 40.16 0 0 0-39.2-39.2z" fill="#4592D8" p-id="2099"></path><path d="M484.48 686.72a45.12 45.12 0 0 0 57.6 0l149.12-149.12a38.88 38.88 0 0 0-54.88-54.88l-81.12 81.12V119.04a39.36 39.36 0 0 0-78.56 0v444.8l-81.12-81.12a38.88 38.88 0 0 0-54.88 54.88z" fill="#4592D8" p-id="2100"></path></svg>
                         </div>
-                        <!-- hover 后图片遮罩 -->
-                        <div class="mask"></div>
-                    </div>
                     <img class="scenery" src="${item.imgSrc}" alt="scenery">
                 </div>
             </div>
@@ -80,6 +89,20 @@ function load() {
                 req.send();
             };
         });
+        const images = document.querySelectorAll('.scenery');
+        images.forEach(img => {
+            img.onclick = () => {
+                previewImgDialog.showModal();
+                previewImg.src = img.src;
+            }
+        });
+        previewImg.onclick = (e) => {
+            e.preventDefault();
+        };
+        console.log(closeSvg, '🚀 closeSvg');
+        closeSvg.onclick = () => {
+            previewImgDialog.close();
+        };
     };
 
     // func: 重排节点
