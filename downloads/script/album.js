@@ -10,9 +10,11 @@ function load() {
             imgSrc: '/images/angular-signal-api.webp',
         },
         {
+            imgSrc: '',
+        },
+        {
             imgSrc: '/images/mermaid.webp',
         },
-        
     ];
     // for (let i = 0; i < 4; i++) {
     //     imgInfo = [...imgInfo, ...imgInfo];
@@ -35,7 +37,7 @@ function load() {
 
     // 获取内部 HTML，即每个图片的容器
     const getInnerHTML = (item) => {
-        return `
+        return item.imgSrc ? `
             <div class="photo-container">
                 <!-- 平时显示的部分 -->
                 <div class="show">
@@ -47,7 +49,7 @@ function load() {
                     <img class="scenery" src="${item.imgSrc}" alt="scenery">
                 </div>
             </div>
-        `;
+        ` : '';
     };
 
     // func: 滚动查找元素并将 String 累计起来，最终渲染到 renderDOM 节点上
@@ -99,7 +101,6 @@ function load() {
         previewImg.onclick = (e) => {
             e.preventDefault();
         };
-        console.log(closeSvg, '🚀 closeSvg');
         closeSvg.onclick = () => {
             previewImgDialog.close();
         };
