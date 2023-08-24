@@ -10,13 +10,19 @@ function load() {
             imgSrc: '/images/angular-signal-api.webp',
         },
         {
-            imgSrc: '',
-        },
-        {
             imgSrc: '/images/mermaid.webp',
         },
+        {
+            imgSrc: '/images/picture/0078.jpeg',
+        },
+        {
+            imgSrc: '/images/picture/realisric.jpeg',
+        },
+        {
+            imgSrc: '/images/picture/lucy.jpeg',
+        },
     ];
-    // for (let i = 0; i < 4; i++) {
+    // for (let i = 0; i < 4; i++) {realisric.jpeg
     //     imgInfo = [...imgInfo, ...imgInfo];
     // }
     let renderDOM = null;
@@ -55,7 +61,7 @@ function load() {
     // func: 滚动查找元素并将 String 累计起来，最终渲染到 renderDOM 节点上
     const reduceDOM = (limit) => {
         // 生成 limit 条字符串
-        const htmlString = Array.from(Array(limit), () => '<div class="photo-list">');
+        const htmlString = Array.from(Array(limit), () => '');
         // 遍历并将 <img/> 添加到每一列上
         imgInfo.forEach((item, index) => {
             const surplus = index % limit;
@@ -63,10 +69,6 @@ function load() {
                 htmlString[surplus] += getInnerHTML(item);
             }
         });
-        // 结尾设置 String
-        for (let i = 0; i < limit; i++) {
-            htmlString[i] += '</div>';
-        }
         // 渲染到 HTML 上。记得处理下数组，要不然会产生逗号
         renderDOM.innerHTML = htmlString.join('');
 
