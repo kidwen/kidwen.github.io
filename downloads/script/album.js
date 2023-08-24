@@ -4,9 +4,6 @@ function load() {
             imgSrc: '/images/picture/f.png',
         },
         {
-            imgSrc: '/images/angular-16.png',
-        },
-        {
             imgSrc: '/images/angular-signal-api.webp',
         },
         {
