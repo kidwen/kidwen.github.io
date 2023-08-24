@@ -18,6 +18,12 @@ function load() {
         {
             imgSrc: '/images/picture/lucy.jpeg',
         },
+        {
+            imgSrc: '/images/picture/niji.jpeg',
+        },
+        {
+            imgSrc: '/images/picture/zoe.jpeg',
+        },
     ];
     // for (let i = 0; i < 4; i++) {realisric.jpeg
     //     imgInfo = [...imgInfo, ...imgInfo];
