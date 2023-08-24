@@ -1,14 +1,14 @@
 function load() {
     let imgInfo = [
-        {
-            imgSrc: '/images/picture/f.png',
-        },
-        {
-            imgSrc: '/images/angular-signal-api.webp',
-        },
-        {
-            imgSrc: '/images/mermaid.webp',
-        },
+        // {
+        //     imgSrc: '/images/picture/f.png',
+        // },
+        // {
+        //     imgSrc: '/images/angular-signal-api.webp',
+        // },
+        // {
+        //     imgSrc: '/images/mermaid.webp',
+        // },
         {
             imgSrc: '/images/picture/0078.jpeg',
         },
@@ -22,7 +22,7 @@ function load() {
             imgSrc: '/images/picture/niji.jpeg',
         },
         {
-            imgSrc: '/images/picture/zoe.jpeg',
+            imgSrc: '/images/picture/zoe.png',
         },
     ];
     // for (let i = 0; i < 4; i++) {realisric.jpeg
