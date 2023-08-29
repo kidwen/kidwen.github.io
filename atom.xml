@@ -6,7 +6,7 @@
   <link href="https://kidwen.top/atom.xml" rel="self"/>
   
   <link href="https://kidwen.top/"/>
-  <updated>2023-08-24T02:58:50.642Z</updated>
+  <updated>2023-08-29T09:53:47.735Z</updated>
   <id>https://kidwen.top/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>linux</title>
+    <link href="https://kidwen.top/post/tools/linux.html"/>
+    <id>https://kidwen.top/post/tools/linux.html</id>
+    <published>2023-08-29T08:30:00.000Z</published>
+    <updated>2023-08-29T09:53:47.735Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;linux 系统学习笔记，学习Linux系统的命令是一个循序渐进的过程，这里记录了一些常用命令和参数。包括文件和目录操作，文件内容查看和编辑，系统信息和管理。&lt;/p&gt;
+&lt;h3 id=&quot;文件和目录操作命令：&quot;&gt;&lt;a href=&quot;#文件和目录操作命令：&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="TOOL" scheme="https://kidwen.top/categories/TOOL/"/>
+    
+    
+    <category term="linux" scheme="https://kidwen.top/tags/linux/"/>
+    
+  </entry>
   
   <entry>
     <title>mermaid</title>
