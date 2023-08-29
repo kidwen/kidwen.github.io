@@ -28,7 +28,7 @@ function load() {
             imgSrc: '/images/picture/build.png',
         },
         {
-            imgSrc: '/images/picture/spider.png',
+            imgSrc: '/images/picture/spider.jpeg',
         },
         {
             imgSrc: '/images/picture/redcar.jpeg',
