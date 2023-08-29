@@ -27,10 +27,28 @@ function load() {
         {
             imgSrc: '/images/picture/build.png',
         },
+        {
+            imgSrc: '/images/picture/spider.png',
+        },
+        {
+            imgSrc: '/images/picture/redcar.jpeg',
+        },
+        {
+            imgSrc: '/images/picture/cat.jpeg',
+        },
+        {
+            imgSrc: '/images/picture/jinkesi.jpeg',
+        },
+        {
+            imgSrc: '/images/picture/plant.jpeg',
+        },
+        {
+            imgSrc: '/images/picture/Cthulhu.jpeg',
+        },
+        {
+            imgSrc: '/images/picture/machina.jpeg',
+        },
     ];
-    // for (let i = 0; i < 4; i++) {realisric.jpeg
-    //     imgInfo = [...imgInfo, ...imgInfo];
-    // }
     let renderDOM = null;
     // 最终渲染节点
     renderDOM = document.querySelector('.photo-album');
