@@ -1,14 +1,5 @@
 function load() {
     let imgInfo = [
-        // {
-        //     imgSrc: '/images/picture/f.png',
-        // },
-        // {
-        //     imgSrc: '/images/angular-signal-api.webp',
-        // },
-        // {
-        //     imgSrc: '/images/mermaid.webp',
-        // },
         {
             imgSrc: '/images/picture/0078.jpeg',
         },
@@ -23,6 +14,18 @@ function load() {
         },
         {
             imgSrc: '/images/picture/zoe.png',
+        },
+        {
+            imgSrc: '/images/picture/angel_girl.png',
+        },
+        {
+            imgSrc: '/images/picture/angel2.png',
+        },
+        {
+            imgSrc: '/images/picture/gray_girl.png',
+        },
+        {
+            imgSrc: '/images/picture/build.png',
         },
     ];
     // for (let i = 0; i < 4; i++) {realisric.jpeg
