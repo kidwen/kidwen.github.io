@@ -48,6 +48,66 @@ function load() {
         {
             imgSrc: '/images/picture/machina.jpeg',
         },
+        {
+            imgSrc: '/images/picture/001.jpeg',
+        },
+        {
+            imgSrc: '/images/picture/002.jpeg',
+        },
+        {
+            imgSrc: '/images/picture/003.jpeg',
+        },
+        {
+            imgSrc: '/images/picture/004.jpeg',
+        },
+        {
+            imgSrc: '/images/picture/005.jpeg',
+        },
+        {
+            imgSrc: '/images/picture/006.jpeg',
+        },
+        {
+            imgSrc: '/images/picture/007.jpeg',
+        },
+        {
+            imgSrc: '/images/picture/008.jpeg',
+        },
+        {
+            imgSrc: '/images/picture/009.jpeg',
+        },
+        {
+            imgSrc: '/images/picture/010.jpeg',
+        },
+        {
+            imgSrc: '/images/picture/011.jpeg',
+        },
+        {
+            imgSrc: '/images/picture/012.jpeg',
+        },
+        {
+            imgSrc: '/images/picture/013.jpeg',
+        },
+        {
+            imgSrc: '/images/picture/014.jpeg',
+        },
+        {
+            imgSrc: '/images/picture/015.jpeg',
+        },
+        {
+            imgSrc: '/images/picture/016.jpeg',
+        },
+        {
+            imgSrc: '/images/picture/017.jpeg',
+        },
+        {
+            imgSrc: '/images/picture/018.jpeg',
+        },
+        {
+            imgSrc: '/images/picture/019.jpeg',
+        },
+        {
+            imgSrc: '/images/picture/020.jpeg',
+        },
     ];
     function random(arr) {
         // 进行 循环遍历数组元素  
