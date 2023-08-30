@@ -6,7 +6,7 @@
   <link href="https://kidwen.top/atom.xml" rel="self"/>
   
   <link href="https://kidwen.top/"/>
-  <updated>2023-08-29T09:53:47.735Z</updated>
+  <updated>2023-08-30T02:01:06.403Z</updated>
   <id>https://kidwen.top/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://kidwen.top/post/tools/linux.html"/>
     <id>https://kidwen.top/post/tools/linux.html</id>
     <published>2023-08-29T08:30:00.000Z</published>
-    <updated>2023-08-29T09:53:47.735Z</updated>
+    <updated>2023-08-30T02:01:06.403Z</updated>
     
     
       
@@ -316,11 +316,11 @@
     
     <category term="angular" scheme="https://kidwen.top/tags/angular/"/>
     
+    <category term="javascript" scheme="https://kidwen.top/tags/javascript/"/>
+    
     <category term="eslint" scheme="https://kidwen.top/tags/eslint/"/>
     
     <category term="typescript" scheme="https://kidwen.top/tags/typescript/"/>
-    
-    <category term="javascript" scheme="https://kidwen.top/tags/javascript/"/>
     
   </entry>
   
@@ -458,7 +458,7 @@
     <link href="https://kidwen.top/post/hexo.html"/>
     <id>https://kidwen.top/post/hexo.html</id>
     <published>2023-03-15T08:10:22.000Z</published>
-    <updated>2023-06-21T06:11:51.995Z</updated>
+    <updated>2023-08-30T01:02:33.868Z</updated>
     
     
       
@@ -471,7 +471,7 @@
     
     
     
-    <category term="ARTICLE" scheme="https://kidwen.top/categories/ARTICLE/"/>
+    <category term="TOOL" scheme="https://kidwen.top/categories/TOOL/"/>
     
     
     <category term="doc" scheme="https://kidwen.top/tags/doc/"/>

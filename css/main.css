@@ -21,7 +21,7 @@
   display: none;
 }
 
-.relative > :not(.block)  .sidebar-box:last-child {
+.relative > :not(.block) .sidebar-box:last-child {
   display: none;
 }
 
@@ -37,4 +37,19 @@ header.site-header .self-stretch div.cursor-pointer span:last-child {
 }
 .language-css .token.punctuation, .language-html .token.punctuation, .language-markup .token.punctuation, .token.punctuation {
   --subs: #fff;
+}
+.page-alert {
+  background-color: #fff2f0;
+  text-align: center;
+  font-size: 18px;
+  line-height: 36px;
+  position: absolute;
+  top: 0;
+  z-index: 100000;
+  width: 100%;
+  font-weight: bolder;
+  padding: 10px;
+}
+.page-alert ~ #app {
+  margin-top: 56px;
 }
