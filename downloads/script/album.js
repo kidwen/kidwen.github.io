@@ -53,19 +53,18 @@ function load() {
         // 进行 循环遍历数组元素  
         for (let i = 0; i < arr.length; i++) {
             // 生成一个随机数  * 数组的长度 
-            let rand = parseInt(Math.random() * arr.length)
+            let rand = parseInt(Math.random() * arr.length);
             //  进行交换
             //  变量保存数组的随机下标的一个元素
-            let sum = arr[rand]
+            let sum = arr[rand];
             //  再将原数组下标的元素 赋值 给 新数组随机下标的元素 
-            arr[rand] = arr[i]
+            arr[rand] = arr[i];
             // 随机下标的元素 赋值 到袁数组中
-            arr[i] = sum
+            arr[i] = sum;
         }
-        return arr
+        return arr;
     }
     imgInfo = random(imgInfo);
-    console.log('🚀 ~ file: album.js:68 ~ load ~ imgInfo:', imgInfo)
     let renderDOM = null;
     // 最终渲染节点
     renderDOM = document.querySelector('.photo-album');
