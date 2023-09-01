@@ -108,6 +108,15 @@ function load() {
         {
             imgSrc: '/images/picture/020.jpeg',
         },
+        {
+            imgSrc: '/images/picture/021.jpeg',
+        },
+        {
+            imgSrc: '/images/picture/022.jpeg',
+        },
+        {
+            imgSrc: '/images/picture/023.jpeg',
+        },
     ];
     function random(arr) {
         // 进行 循环遍历数组元素  
@@ -136,7 +145,6 @@ function load() {
             } else {
                 resize();
             }
-            // 每次进来先执行一遍
         }, 100);
     }
     let prevMode = 1;

@@ -316,11 +316,11 @@
     
     <category term="angular" scheme="https://kidwen.top/tags/angular/"/>
     
-    <category term="javascript" scheme="https://kidwen.top/tags/javascript/"/>
-    
     <category term="eslint" scheme="https://kidwen.top/tags/eslint/"/>
     
     <category term="typescript" scheme="https://kidwen.top/tags/typescript/"/>
+    
+    <category term="javascript" scheme="https://kidwen.top/tags/javascript/"/>
     
   </entry>
   
