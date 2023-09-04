@@ -6,7 +6,7 @@
   <link href="https://kidwen.top/atom.xml" rel="self"/>
   
   <link href="https://kidwen.top/"/>
-  <updated>2023-08-30T08:30:16.788Z</updated>
+  <updated>2023-09-04T06:04:23.949Z</updated>
   <id>https://kidwen.top/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>stable diffusion prompt</title>
+    <link href="https://kidwen.top/post/ai/prompt.html"/>
+    <id>https://kidwen.top/post/ai/prompt.html</id>
+    <published>2023-09-04T03:00:00.000Z</published>
+    <updated>2023-09-04T06:04:23.949Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;The first step to gennerate a image is to write a series of prompt. The prompt include positive and negative words.&lt;br&gt;Also you can use</summary>
+        
+      
+    
+    
+    
+    <category term="AI" scheme="https://kidwen.top/categories/AI/"/>
+    
+    
+    <category term="propmt" scheme="https://kidwen.top/tags/propmt/"/>
+    
+  </entry>
   
   <entry>
     <title>linux</title>
@@ -93,7 +118,7 @@
     <link href="https://kidwen.top/post/frontend/angular-v16.html"/>
     <id>https://kidwen.top/post/frontend/angular-v16.html</id>
     <published>2023-07-13T03:00:00.000Z</published>
-    <updated>2023-07-31T08:33:10.038Z</updated>
+    <updated>2023-09-04T01:40:38.177Z</updated>
     
     
       
