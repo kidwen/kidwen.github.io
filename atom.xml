@@ -6,7 +6,7 @@
   <link href="https://kidwen.top/atom.xml" rel="self"/>
   
   <link href="https://kidwen.top/"/>
-  <updated>2023-09-04T06:04:23.949Z</updated>
+  <updated>2023-09-06T03:40:30.995Z</updated>
   <id>https://kidwen.top/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Types vs interfaces</title>
+    <link href="https://kidwen.top/post/typescript/interface-type.html"/>
+    <id>https://kidwen.top/post/typescript/interface-type.html</id>
+    <published>2023-09-06T02:30:00.000Z</published>
+    <updated>2023-09-06T03:40:30.995Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;在 TypeScript 中，有两种主要的工具来声明对象的形状，即接口（interfaces）和类型别名（type aliases）。&lt;br&gt;它们非常相似，对于大多数常见情况，它们的行为都是相同的。&lt;br&gt;由于 TypeScript</summary>
+        
+      
+    
+    
+    
+    <category term="TYPESCRIPT" scheme="https://kidwen.top/categories/TYPESCRIPT/"/>
+    
+    
+    <category term="typescript" scheme="https://kidwen.top/tags/typescript/"/>
+    
+  </entry>
   
   <entry>
     <title>stable diffusion prompt</title>
@@ -339,22 +364,22 @@
     <category term="FRONTEND" scheme="https://kidwen.top/categories/FRONTEND/"/>
     
     
+    <category term="javascript" scheme="https://kidwen.top/tags/javascript/"/>
+    
     <category term="angular" scheme="https://kidwen.top/tags/angular/"/>
     
     <category term="eslint" scheme="https://kidwen.top/tags/eslint/"/>
     
     <category term="typescript" scheme="https://kidwen.top/tags/typescript/"/>
     
-    <category term="javascript" scheme="https://kidwen.top/tags/javascript/"/>
-    
   </entry>
   
   <entry>
     <title>javascript type check</title>
-    <link href="https://kidwen.top/post/frontend/type-check.html"/>
-    <id>https://kidwen.top/post/frontend/type-check.html</id>
+    <link href="https://kidwen.top/post/javascript/type-check.html"/>
+    <id>https://kidwen.top/post/javascript/type-check.html</id>
     <published>2023-03-23T08:00:00.000Z</published>
-    <updated>2023-08-30T03:33:07.700Z</updated>
+    <updated>2023-09-06T02:28:01.077Z</updated>
     
     
       
@@ -367,7 +392,7 @@
     
     
     
-    <category term="FRONTEND" scheme="https://kidwen.top/categories/FRONTEND/"/>
+    <category term="JAVASCRIPT" scheme="https://kidwen.top/categories/JAVASCRIPT/"/>
     
     
     <category term="javascript" scheme="https://kidwen.top/tags/javascript/"/>
