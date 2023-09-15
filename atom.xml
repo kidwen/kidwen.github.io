@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>kidwen</title>
+  <icon>https://kidwen.top/favicon.ico</icon>
+  
+  <link href="https://kidwen.top/atom.xml" rel="self"/>
+  
+  <link href="https://kidwen.top/"/>
+  <updated>2023-09-15T07:41:51.379Z</updated>
+  <id>https://kidwen.top/</id>
+  
+  <author>
+    <name>kidwen</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用qexo管理hexo博客并自动发布</title>
+    <link href="https://kidwen.top/post/tools/qexo-hexo.html"/>
+    <id>https://kidwen.top/post/tools/qexo-hexo.html</id>
+    <published>2023-09-15T06:20:09.247Z</published>
+    <updated>2023-09-15T07:41:51.379Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;本文介绍使用 &lt;code&gt;qexo&lt;/code&gt;后台管理 &lt;code&gt;hexo&lt;/code&gt;博客并自动推送修改到 &lt;code&gt;github&lt;/code&gt;仓库，然后由 &lt;code&gt;github</summary>
+        
+      
+    
+    
+    
+    <category term="TOOL" scheme="https://kidwen.top/categories/TOOL/"/>
+    
+    
+    <category term="qexo" scheme="https://kidwen.top/tags/qexo/"/>
+    
+    <category term="hexo" scheme="https://kidwen.top/tags/hexo/"/>
+    
+    <category term="ci/cd" scheme="https://kidwen.top/tags/ci-cd/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>常用CSS</title>
+    <link href="https://kidwen.top/post/frontend/css.html"/>
+    <id>https://kidwen.top/post/frontend/css.html</id>
+    <published>2023-09-14T03:15:44.609Z</published>
+    <updated>2023-09-15T07:41:51.379Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;文本省略号&quot;&gt;&lt;a href=&quot;#文本省略号&quot; class=&quot;headerlink&quot; title=&quot;文本省略号&quot;&gt;&lt;/a&gt;文本省略号&lt;/h3&gt;&lt;div class=&quot;language-css&quot;&gt;&lt;button title=&quot;Copy code&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="FRONTEND" scheme="https://kidwen.top/categories/FRONTEND/"/>
+    
+    
+    <category term="css" scheme="https://kidwen.top/tags/css/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Types vs interfaces</title>
+    <link href="https://kidwen.top/post/typescript/interface-type.html"/>
+    <id>https://kidwen.top/post/typescript/interface-type.html</id>
+    <published>2023-09-06T02:30:00.000Z</published>
+    <updated>2023-09-15T07:41:51.379Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;在 TypeScript 中，有两种主要的工具来声明对象的形状，即接口（interfaces）和类型别名（type aliases）。&lt;br&gt;它们非常相似，对于大多数常见情况，它们的行为都是相同的。&lt;br&gt;由于 TypeScript</summary>
+        
+      
+    
+    
+    
+    <category term="TYPESCRIPT" scheme="https://kidwen.top/categories/TYPESCRIPT/"/>
+    
+    
+    <category term="typescript" scheme="https://kidwen.top/tags/typescript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>stable diffusion prompt</title>
+    <link href="https://kidwen.top/post/ai/prompt.html"/>
+    <id>https://kidwen.top/post/ai/prompt.html</id>
+    <published>2023-09-04T03:00:00.000Z</published>
+    <updated>2023-09-15T07:41:51.379Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;The first step to gennerate a image is to write a series of prompt. The prompt include positive and negative words.&lt;br&gt;Also you can use</summary>
+        
+      
+    
+    
+    
+    <category term="AI" scheme="https://kidwen.top/categories/AI/"/>
+    
+    
+    <category term="propmt" scheme="https://kidwen.top/tags/propmt/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>linux</title>
+    <link href="https://kidwen.top/post/tools/linux.html"/>
+    <id>https://kidwen.top/post/tools/linux.html</id>
+    <published>2023-08-29T08:30:00.000Z</published>
+    <updated>2023-09-15T07:41:51.379Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;linux 系统学习笔记，学习Linux系统的命令是一个循序渐进的过程，这里记录了一些常用命令和参数。包括文件和目录操作，文件内容查看和编辑，系统信息和管理。&lt;/p&gt;
+&lt;h3 id=&quot;文件和目录操作命令：&quot;&gt;&lt;a href=&quot;#文件和目录操作命令：&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="TOOL" scheme="https://kidwen.top/categories/TOOL/"/>
+    
+    
+    <category term="terminal" scheme="https://kidwen.top/tags/terminal/"/>
+    
+    <category term="linux" scheme="https://kidwen.top/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>mermaid</title>
+    <link href="https://kidwen.top/post/tools/mermaid.html"/>
+    <id>https://kidwen.top/post/tools/mermaid.html</id>
+    <published>2023-07-27T11:00:00.000Z</published>
+    <updated>2023-09-15T07:41:51.379Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;!-- &lt;%- js(&#39;downloads/script/mermaid.js&#39;) %&gt; --&gt;
+
+&lt;h3 id=&quot;hexo-with-mermaind&quot;&gt;&lt;a href=&quot;#hexo-with-mermaind&quot; class=&quot;headerlink&quot; title=&quot;hexo</summary>
+        
+      
+    
+    
+    
+    <category term="TOOL" scheme="https://kidwen.top/categories/TOOL/"/>
+    
+    
+    <category term="chart" scheme="https://kidwen.top/tags/chart/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>angular v16 signal api 介绍</title>
+    <link href="https://kidwen.top/post/frontend/angular-signal-api.html"/>
+    <id>https://kidwen.top/post/frontend/angular-signal-api.html</id>
+    <published>2023-07-21T08:00:00.000Z</published>
+    <updated>2023-09-15T07:41:51.379Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;本文介绍 &lt;code&gt;Angular signal&lt;/code&gt;库的 &lt;code&gt;API&lt;/code&gt; 接口和一些实现细节。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="FRONTEND" scheme="https://kidwen.top/categories/FRONTEND/"/>
+    
+    
+    <category term="angular" scheme="https://kidwen.top/tags/angular/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>angular v16 signal 介绍</title>
+    <link href="https://kidwen.top/post/frontend/angular-v16.html"/>
+    <id>https://kidwen.top/post/frontend/angular-v16.html</id>
+    <published>2023-07-13T03:00:00.000Z</published>
+    <updated>2023-09-15T07:41:51.379Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;2023年05月03日，angular v16 正式发布。此次更新添加了&lt;code&gt;Signals&lt;/code&gt;作为&lt;code&gt;angular&lt;/code&gt;新的响应单元(&lt;code&gt;reactive</summary>
+        
+      
+    
+    
+    
+    <category term="FRONTEND" scheme="https://kidwen.top/categories/FRONTEND/"/>
+    
+    
+    <category term="angular" scheme="https://kidwen.top/tags/angular/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>gulp</title>
+    <link href="https://kidwen.top/post/tools/gulp.html"/>
+    <id>https://kidwen.top/post/tools/gulp.html</id>
+    <published>2023-07-10T10:00:00.000Z</published>
+    <updated>2023-09-15T07:41:51.379Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;利用 gulp 和 JavaScript</summary>
+        
+      
+    
+    
+    
+    <category term="TOOL" scheme="https://kidwen.top/categories/TOOL/"/>
+    
+    
+    <category term="build" scheme="https://kidwen.top/tags/build/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>lodash</title>
+    <link href="https://kidwen.top/post/tools/lodash.html"/>
+    <id>https://kidwen.top/post/tools/lodash.html</id>
+    <published>2023-07-10T09:00:00.000Z</published>
+    <updated>2023-09-15T07:41:51.379Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;一个现代 JavaScript</summary>
+        
+      
+    
+    
+    
+    <category term="TOOL" scheme="https://kidwen.top/categories/TOOL/"/>
+    
+    
+    <category term="lodash" scheme="https://kidwen.top/tags/lodash/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>rxjs</title>
+    <link href="https://kidwen.top/post/tools/rxjs.html"/>
+    <id>https://kidwen.top/post/tools/rxjs.html</id>
+    <published>2023-07-10T02:30:00.000Z</published>
+    <updated>2023-09-15T07:41:51.379Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;RxJS（Reactive Extensions for JavaScript）是一个用于处理异步和事件驱动编程的库。它基于观察者模式和迭代器模式，并引入了一些函数式编程的概念。RxJS</summary>
+        
+      
+    
+    
+    
+    <category term="TOOL" scheme="https://kidwen.top/categories/TOOL/"/>
+    
+    
+    <category term="rxjs" scheme="https://kidwen.top/tags/rxjs/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>响应式主题</title>
+    <link href="https://kidwen.top/post/frontend/theming.html"/>
+    <id>https://kidwen.top/post/frontend/theming.html</id>
+    <published>2023-06-15T05:30:00.000Z</published>
+    <updated>2023-09-15T07:41:51.379Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;em&gt;将页面自适应匹配用户的喜好，例如黑色模式&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;可以调整网站的展示以匹配用户的喜好。首先，需要知道如何借力浏览器来增加网站曝光从而提高品牌知名度。&lt;/p&gt;
+&lt;h3 id=&quot;自定义浏览器界面&quot;&gt;&lt;a href=&quot;#自定义浏览器界面&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="FRONTEND" scheme="https://kidwen.top/categories/FRONTEND/"/>
+    
+    
+    <category term="theming" scheme="https://kidwen.top/tags/theming/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>animate angular</title>
+    <link href="https://kidwen.top/post/frontend/angular-animate.html"/>
+    <id>https://kidwen.top/post/frontend/angular-animate.html</id>
+    <published>2023-06-15T02:00:00.000Z</published>
+    <updated>2023-09-15T07:41:51.379Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Angular Animations is a built-in animation library in Angular framework that allows you to create rich and interactive animations in</summary>
+        
+      
+    
+    
+    
+    <category term="FRONTEND" scheme="https://kidwen.top/categories/FRONTEND/"/>
+    
+    
+    <category term="angular" scheme="https://kidwen.top/tags/angular/"/>
+    
+    <category term="animate" scheme="https://kidwen.top/tags/animate/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>git proxy</title>
+    <link href="https://kidwen.top/post/proxy/git.html"/>
+    <id>https://kidwen.top/post/proxy/git.html</id>
+    <published>2023-04-06T09:06:00.000Z</published>
+    <updated>2023-09-15T07:41:51.379Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Git is a free and open source distributed version control system designed to handle everything from small to very large projects with</summary>
+        
+      
+    
+    
+    
+    <category term="PROXY" scheme="https://kidwen.top/categories/PROXY/"/>
+    
+    
+    <category term="git" scheme="https://kidwen.top/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python pip proxy</title>
+    <link href="https://kidwen.top/post/proxy/python.html"/>
+    <id>https://kidwen.top/post/proxy/python.html</id>
+    <published>2023-04-05T10:00:00.000Z</published>
+    <updated>2023-09-15T07:41:51.379Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of</summary>
+        
+      
+    
+    
+    
+    <category term="PROXY" scheme="https://kidwen.top/categories/PROXY/"/>
+    
+    
+    <category term="python" scheme="https://kidwen.top/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>eslint angular</title>
+    <link href="https://kidwen.top/post/frontend/eslint-angular.html"/>
+    <id>https://kidwen.top/post/frontend/eslint-angular.html</id>
+    <published>2023-04-01T00:00:00.000Z</published>
+    <updated>2023-09-15T07:41:51.379Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Angular 是一个应用设计框架与开发平台，旨在创建高效而精致的单页面应用。&lt;br&gt;ESLint 是一个很棒的 JavaScript 代码检查工具。&lt;br&gt;TypeScript 是一种基于 JavaScript 的强类型编程语言。&lt;/p&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="FRONTEND" scheme="https://kidwen.top/categories/FRONTEND/"/>
+    
+    
+    <category term="angular" scheme="https://kidwen.top/tags/angular/"/>
+    
+    <category term="eslint" scheme="https://kidwen.top/tags/eslint/"/>
+    
+    <category term="typescript" scheme="https://kidwen.top/tags/typescript/"/>
+    
+    <category term="javascript" scheme="https://kidwen.top/tags/javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>javascript type check</title>
+    <link href="https://kidwen.top/post/javascript/type-check.html"/>
+    <id>https://kidwen.top/post/javascript/type-check.html</id>
+    <published>2023-03-23T08:00:00.000Z</published>
+    <updated>2023-09-15T07:41:51.379Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;In this article, How to Check the Type of a Variable or Object in JavaScript? In JavaScript, the typeof operator is used to determine</summary>
+        
+      
+    
+    
+    
+    <category term="JAVASCRIPT" scheme="https://kidwen.top/categories/JAVASCRIPT/"/>
+    
+    
+    <category term="javascript" scheme="https://kidwen.top/tags/javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>http server</title>
+    <link href="https://kidwen.top/post/frontend/http-server.html"/>
+    <id>https://kidwen.top/post/frontend/http-server.html</id>
+    <published>2023-03-22T06:00:00.000Z</published>
+    <updated>2023-09-15T07:41:51.379Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;http-server is a simple, zero-configuration command-line static HTTP server. It is powerful enough for production usage, but it’s simple</summary>
+        
+      
+    
+    
+    
+    <category term="FRONTEND" scheme="https://kidwen.top/categories/FRONTEND/"/>
+    
+    
+    <category term="server" scheme="https://kidwen.top/tags/server/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>npm/yarn proxy/registry</title>
+    <link href="https://kidwen.top/post/proxy/npm-yarn.html"/>
+    <id>https://kidwen.top/post/proxy/npm-yarn.html</id>
+    <published>2023-03-20T08:12:22.000Z</published>
+    <updated>2023-09-15T07:41:51.379Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;npm stands for Node Package Manager. It’s a library and registry for JavaScript software packages. npm also has command-line tools to</summary>
+        
+      
+    
+    
+    
+    <category term="PROXY" scheme="https://kidwen.top/categories/PROXY/"/>
+    
+    <category term="REGISTRY" scheme="https://kidwen.top/categories/PROXY/REGISTRY/"/>
+    
+    
+    <category term="npm" scheme="https://kidwen.top/tags/npm/"/>
+    
+    <category term="yarn" scheme="https://kidwen.top/tags/yarn/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>terminal proxy</title>
+    <link href="https://kidwen.top/post/proxy/powershell.html"/>
+    <id>https://kidwen.top/post/proxy/powershell.html</id>
+    <published>2023-03-20T08:10:22.000Z</published>
+    <updated>2023-09-15T07:41:51.379Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;terminal is a task automation and configuration management program from Microsoft, consisting of a command-line shell and the associated</summary>
+        
+      
+    
+    
+    
+    <category term="PROXY" scheme="https://kidwen.top/categories/PROXY/"/>
+    
+    
+    <category term="terminal" scheme="https://kidwen.top/tags/terminal/"/>
+    
+  </entry>
+  
+</feed>
