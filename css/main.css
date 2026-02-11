@@ -1,0 +1,63 @@
+.ob-drop-shadow[data-dia="light-switch"] {
+  display: none !important;
+}
+
+.post-html h4, .post-html h5, .post-html h6 {
+  padding-top: 0;
+}
+.post-html h4::after, .post-html h5::after, .post-html h6::after {
+  display: none;
+}
+
+.post-html ol>li:before {
+  position: absolute;
+}
+.post-header .post-labels ul {
+  flex-wrap: wrap;
+}
+.post-html ul li::before  {
+  position: absolute;
+}
+
+.block .sidebar-box:not(:last-child) {
+  display: none;
+}
+
+.relative > :not(.block) .sidebar-box:last-child {
+  display: none;
+}
+
+#sticky-sidebar .sidebar-box {
+  display: block;
+}
+
+.search-logo {
+  visibility: hidden;
+}
+header.site-header .self-stretch div.cursor-pointer span:last-child {
+  display: none;
+}
+.language-css .token.punctuation, .language-html .token.punctuation, .language-markup .token.punctuation, .token.punctuation {
+  --subs: #fff;
+}
+.page-alert {
+  background-color: #fff2f0;
+  text-align: center;
+  font-size: 18px;
+  line-height: 36px;
+  position: absolute;
+  top: 0;
+  z-index: 100000;
+  width: 100%;
+  font-weight: bolder;
+  padding: 10px;
+}
+.page-alert ~ #app {
+  margin-top: 56px;
+}
+.app-banner.app-banner-cover + .relative > .mt-20 {
+  margin-top: 0;
+}
+.post-html p code,.post-html li code {
+  background-color: transparent;
+}

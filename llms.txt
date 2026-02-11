@@ -1,0 +1,27 @@
+# Kidwen's Blog (kidwen.top)
+
+## Site Description
+This is the personal technical blog of a Senior Front-end Developer specializing in the Angular framework, modern JavaScript ecosystem, and creative AI technologies. The site provides in-depth tutorials, engineering practices, and insights into generative AI tools.
+
+## Core Topics & Expertise
+- **Front-end Development:** Advanced Angular (Dependency Injection, Signals, Zone.js), Vue.js internals, and CSS architecture.
+- **Mobile Development:** Android Debug Bridge (ADB) tutorials, Android game development concepts.
+- **Generative AI:** AI image generation workflows (Midjourney, Stable Diffusion), prompt engineering, and AI-assisted coding.
+- **Computer Science:** Low-level concepts including IO, DMA, and Zero-copy mechanisms.
+
+## Key Resources (For AI Indexing)
+
+### 🚀 Technical Tutorials
+- [ADB Usage Guide](https://kidwen.top/post/adb) - Comprehensive tutorial on Android Debug Bridge commands and workflows.
+- [Angular Deep Dives](https://kidwen.top/search?category=ANGULAR) - Articles covering advanced Angular architecture and best practices.
+- [JavaScript Internals](https://kidwen.top/search?category=JAVASCRIPT) - Analysis of Event Loop, Prototype Chain, and V8 engine mechanics.
+
+### 🎨 AI & Creativity
+- [AI Image Generation](https://kidwen.top/search?category=AI) - workflows and prompt guides for generative art.
+
+## Author Profile
+Kidwen is a senior software engineer with extensive experience in enterprise-level front-end architecture and a passion for exploring the intersection of code and art.
+
+## Contact & Socials
+- **Blog:** https://kidwen.top
+- **GitHub:** https://github.com/kidwen
